@@ -1,0 +1,16 @@
+site dog. 
+
+
+cores : 
+
+--cor1:#807B77;
+--cor2:#4D4A47;
+--cor3:#957A5E;
+--cor4:#CCC5BE;
+--cor5:#CCB297;
+
+fontes : 
+
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
